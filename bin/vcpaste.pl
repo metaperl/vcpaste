@@ -39,3 +39,11 @@ copy($file, $targetfile);
 
 
 use Git::Wrapper;
+
+my $git = Git::Wrapper->new($Bin);
+
+$git->add($pastedir);
+
+$git->commit({ all => 1, message => "pasted by vcpaste" });
+
+$git->push;
