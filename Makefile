@@ -1,2 +1,2 @@
 cpan:
-	cpan Path::Class DateTime Git::Wrapper
+	cpan Path::Class DateTime Git::Wrapper Clipboard

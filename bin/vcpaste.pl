@@ -23,7 +23,7 @@ use File::Basename;
 my $basefile = basename($file);
 
 # ---------------------------------------------------
-# Calculate directory to paste input file to and copy
+# Make directory to copy input file to
 # ---------------------------------------------------
 
 my $newdir = datetimestamp;
@@ -72,8 +72,11 @@ $git->push;
 # Announce paste URL
 # --------------------------------------------
 
-
 my $pasteurl = "https://github.com/$githubid/vcpaste/blob/master/paste/$newdir/$basefile";
 
 print "Paste available at $pasteurl\n";
+
+require Clipboard;
+Clipboard->import;
+Clipboard->copy($pasteurl);
 
