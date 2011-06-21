@@ -14,9 +14,17 @@ sub datetimestamp {
 
 }
 
+# --------------------------------------------
+# Get input file
+# --------------------------------------------
+
 my $file = shift;
 use File::Basename;
 my $basefile = basename($file);
+
+# ---------------------------------------------------
+# Calculate directory to paste input file to and copy
+# ---------------------------------------------------
 
 my $newdir = datetimestamp;
 
@@ -34,11 +42,20 @@ use File::Path qw(make_path);
 
 make_path($pastedir, { verbose => $verbose });
 
+# --------------------------------------------
+# Copy file to paste directory
+# --------------------------------------------
+
+
 use File::Copy;
 
 my $targetfile = file(@pastedir, $basefile);
 
 copy($file, $targetfile);
+
+# --------------------------------------------
+# Add, commit, push new directory to github
+# --------------------------------------------
 
 
 use Git::Wrapper;
@@ -50,6 +67,11 @@ $git->add($pastedir);
 $git->commit({ all => 1, message => "$file pasted by vcpaste" });
 
 $git->push;
+
+# --------------------------------------------
+# Announce paste URL
+# --------------------------------------------
+
 
 my $pasteurl = "https://github.com/$githubid/vcpaste/blob/master/paste/$newdir/$basefile";
 
