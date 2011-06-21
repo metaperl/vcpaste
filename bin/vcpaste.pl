@@ -1,5 +1,7 @@
 use DateTime;
 
+my $githubid = 'metaperl';
+
 sub datetimestamp {
 
   my $dt = DateTime->now;
@@ -47,3 +49,7 @@ $git->add($pastedir);
 $git->commit({ all => 1, message => "$file pasted by vcpaste" });
 
 $git->push;
+
+my $pasteurl = "https://github.com/$githubid/vcpaste/blob/master/paste/$newdir/$basefile";
+
+print "Paste available at $pasteurl";
