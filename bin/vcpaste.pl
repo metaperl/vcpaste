@@ -1,6 +1,7 @@
 use DateTime;
 
 my $githubid = 'metaperl';
+my $verbose  = 0;
 
 sub datetimestamp {
 
@@ -21,17 +22,17 @@ my $newdir = datetimestamp;
 
 use FindBin qw($Bin);
 
-warn "$file, $basefile, $newdir, $Bin";
+warn "$file, $basefile, $newdir, $Bin" if $verbose;
 
 use Path::Class;
 my @pastedir  = ($Bin, '..', 'paste', $newdir);
 my $pastedir = dir(@pastedir);
 
-warn $pastedir;
+warn $pastedir if $verbose;
 
 use File::Path qw(make_path);
 
-make_path($pastedir, { verbose => 1 });
+make_path($pastedir, { verbose => $verbose });
 
 use File::Copy;
 
@@ -52,4 +53,5 @@ $git->push;
 
 my $pasteurl = "https://github.com/$githubid/vcpaste/blob/master/paste/$newdir/$basefile";
 
-print "Paste available at $pasteurl";
+print "Paste available at $pasteurl\n";
+
