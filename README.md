@@ -12,11 +12,19 @@ shell> vcpaste.pl ~/programming/problem.cpp
 Paste available at https://github.com/guy/vcpaste/blob/master/paste/2011-06-21-12-41-30/problem.cpp
 ```
 
-# Installation
+# INSTALLATION
 
 ## CPAN modules
 
 Install the CPAN modules listed in 
 [the Makefile](https://github.com/metaperl/vcpaste/blob/master/Makefile) via `make cpan` 
 on Unix/Linux or manually on Windows.
+
+# AUTHOR
+
+Terrence Brannon
+
+## Acknowledgements
+
+Rocco Caputo and Chris Prather
 
