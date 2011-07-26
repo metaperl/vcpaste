@@ -48,13 +48,13 @@ make_path($pastedir, { verbose => $verbose });
 
 
 use File::Copy;
-use File::Copy::Recursive;
+use File::Copy::Recursive qw(dircopy);
 
 my $targetfile = file(@pastedir, $basefile);
 
 warn "B: $basefile";
 
-if (-d $basefile) {
+if (-d $file) {
   dircopy($basefile, $targetfile);
   warn "dircopy($basefile, $targetfile);";
 } else {
