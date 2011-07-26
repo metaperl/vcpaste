@@ -52,6 +52,8 @@ use File::Copy::Recursive;
 
 my $targetfile = file(@pastedir, $basefile);
 
+warn "B: $basefile";
+
 if (-d $basefile) {
   dircopy($basefile, $targetfile);
   warn "dircopy($basefile, $targetfile);";
