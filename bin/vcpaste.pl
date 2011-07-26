@@ -52,7 +52,7 @@ use File::Copy::Recursive qw(dircopy);
 
 my $targetfile = file(@pastedir, $basefile);
 
-warn "B: $basefile";
+warn "B: $basefile" if $verbose;
 
 if (-d $file) {
   dircopy($file, $targetfile);
