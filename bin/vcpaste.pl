@@ -55,7 +55,7 @@ my $targetfile = file(@pastedir, $basefile);
 warn "B: $basefile";
 
 if (-d $file) {
-  dircopy($basefile, $targetfile);
+  dircopy($file, $targetfile);
   warn "dircopy($basefile, $targetfile);";
 } else {
   copy($file, $targetfile);
