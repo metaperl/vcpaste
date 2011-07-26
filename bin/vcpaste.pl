@@ -4,7 +4,7 @@ use warnings;
 use DateTime;
 
 my $githubid = 'metaperl';
-my $verbose  = 1;
+my $verbose  = 0;
 
 sub datetimestamp {
 
