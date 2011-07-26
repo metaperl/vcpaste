@@ -48,10 +48,15 @@ make_path($pastedir, { verbose => $verbose });
 
 
 use File::Copy;
+use File::Copy::Recursive;
 
 my $targetfile = file(@pastedir, $basefile);
 
-copy($file, $targetfile);
+if (-d $basefile) {
+  dircopy($basefile, $targetfile);
+} else {
+  copy($file, $targetfile);
+}
 
 # --------------------------------------------
 # Add, commit, push new directory to github
