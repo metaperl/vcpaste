@@ -1,0 +1,4 @@
+EXPORTS
+  boot_fs
+  _boot_fs = boot_fs
+  

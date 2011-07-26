@@ -1,0 +1,488 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (Hong Kong) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ZHH)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_HONGKONG
+#pragma code_page(950)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\ftrScanApiEx.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG_OTHERS DIALOG DISCARDABLE  0, 0, 255, 282
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Other Functions"
+FONT 10, "System"
+BEGIN
+    GROUPBOX        "Scanner details",IDC_STATIC,7,7,241,46
+    LTEXT           "Device Model: ",IDC_STATIC,14,21,52,9
+    PUSHBUTTON      "Refresh",IDC_BUTTON_REFRESH,203,19,39,11
+    EDITTEXT        IDC_EDIT_DEVICEMODEL,71,19,106,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    LTEXT           "Version: ",IDC_STATIC,14,36,29,8
+    EDITTEXT        IDC_EDIT_VERSIONINFO,48,35,194,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    GROUPBOX        "Red/Green LEDs",IDC_STATIC,7,62,241,75
+    LTEXT           "Green (0-Off, 255-On, other-Timed): ",IDC_STATIC,13,78,
+                    115,9
+    EDITTEXT        IDC_EDIT_SETGREEN,134,76,22,12,ES_AUTOHSCROLL
+    LTEXT           "Red (0-Off, 255-On, Other-Timed): ",IDC_STATIC,18,93,
+                    109,10
+    EDITTEXT        IDC_EDIT_SETRED,134,91,22,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Set",IDC_BUTTON_SETLEDS,202,88,40,12
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,8,109,240,1
+    LTEXT           "Get Status",IDC_STATIC,13,118,42,10
+    LTEXT           "Green:",IDC_STATIC,64,118,24,9
+    EDITTEXT        IDC_EDIT_GETGREEN,94,117,23,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    LTEXT           "Red:",IDC_STATIC,141,118,18,9
+    EDITTEXT        IDC_EDIT_GETRED,166,117,23,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    GROUPBOX        "7 Bytes",IDC_STATIC,7,144,241,38
+    EDITTEXT        IDC_EDIT_7BYTES_WRITE,17,160,34,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Write",IDC_BUTTON_WRITE7BYTES,60,160,40,12,WS_DISABLED
+    EDITTEXT        IDC_EDIT_7BYTES_READ,182,160,34,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Read",IDC_BUTTON_READ7BYTES,134,160,40,12
+    GROUPBOX        "Secret 7 Bytes",IDC_STATIC,7,191,241,63
+    LTEXT           "Authorization Code:",IDC_STATIC,18,204,67,11
+    EDITTEXT        IDC_EDIT_AUTHORIZATION_CODE,90,202,45,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Set Authorization Code",IDC_BUTTON_SETAUTHCODE,160,201,
+                    83,13,WS_DISABLED
+    LTEXT           "Secret Code: ",IDC_STATIC,39,221,42,9
+    EDITTEXT        IDC_EDIT_SECRET_WRITE,90,219,45,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Write Secret7Bytes",IDC_BUTTON_WRITE_SECRET,160,219,83,
+                    13,WS_DISABLED
+    PUSHBUTTON      "Read Secret7Bytes",IDC_BUTTON_READ_SECRET,160,236,83,13,
+                    WS_DISABLED
+    EDITTEXT        IDC_EDIT_SECRET_READ,90,236,45,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CONTROL         "ALERT",IDC_ALERT,"Button",BS_OWNERDRAW | WS_TABSTOP,140,
+                    201,17,15
+    LTEXT           "",IDC_LBL_MESSAGE,7,262,241,13,SS_SUNKEN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG_OTHERS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 248
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 275
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+ALERTU                  BITMAP  DISCARDABLE     "res\\alert.bmp"
+#endif    // Chinese (Hong Kong) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\futronic_logo.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Invert Colors",              ID_FILE_INVERTCOLORS
+        MENUITEM SEPARATOR
+        MENUITEM "Save &As Bitmap",             ID_FILE_SAVE_BITMAP
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Capture Finger"
+    BEGIN
+        MENUITEM "&Start",                      IDM_CAPTURE_TO_SCREEN
+        MENUITEM SEPARATOR
+        POPUP "Scanning Functions"
+        BEGIN
+            MENUITEM "GetFrame",                    ID_CAPTUREFINGER_STARTGETFRAME
+
+            MENUITEM SEPARATOR
+            MENUITEM "nDose=1",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE1
+
+            MENUITEM "nDose=2",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE2
+
+            MENUITEM "nDose=3",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE3
+
+            MENUITEM "nDose=4",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE4
+
+            MENUITEM "nDose=5",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE5
+
+            MENUITEM "nDose=6",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE6
+
+            MENUITEM "nDose=7",                     ID_CAPTUREFINGER_STARTGETIMAGE2_NDOSE7
+
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "Enable &LFD",                 IDM_LFD
+        MENUITEM SEPARATOR
+        MENUITEM "&Invert Color - White background", 
+                                                ID_CAPTUREFINGER_INVERTCOLOR
+        MENUITEM SEPARATOR
+        POPUP "Stretch Image"
+        BEGIN
+            MENUITEM "100%",                        ID_STRETCH_100
+            MENUITEM "50%",                         ID_STRETCH_50
+            MENUITEM "25%",                         ID_STRETCH_25
+        END
+    END
+    POPUP "&Others"
+    BEGIN
+        MENUITEM "Other &Functions",            ID_OTHERS_FUNCTIONS
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About ftrScanApiEx...",      ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 66
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About ftrScanApiEx"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,7,7,20,20
+    LTEXT           "ftrScanApiEx Version 2.5",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2010 Futronic ",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+    LTEXT           "",IDC_DLL_VERSION,40,42,125,11
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,5,0,0
+ PRODUCTVERSION 2,5,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "Demo program for ftrScanAPI.dll\0"
+            VALUE "CompanyName", "Futronic Technology Company Ltd,\0"
+            VALUE "FileDescription", "ftrScanApiEx MFC Application\0"
+            VALUE "FileVersion", "2.5.0.0\0"
+            VALUE "InternalName", "ftrScanApiEx\0"
+            VALUE "LegalCopyright", "Copyright (C) 2010 Futronic\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "ftrScanApiEx.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "ftrScanApiEx Application\0"
+            VALUE "ProductVersion", "2.5.0.0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 59
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "ftrScanApiEx\n\nFtrSca\n\n\nFtrScanApiEx.Document\nFtrSca Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "ftrScanApiEx"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save picture as bitmap\nSave"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDM_CAPTURE_TO_SCREEN   "Start scanning fingers to screen."
+    ID_FILE_SAVEASBITMAP    "Save the picture as bitmap\n"
+    ID_FILE_SAVE_BITMAP     "Save the picture as bitmap.\n"
+    ID_FILE_INVERTCOLORS    "Invert image colors"
+    IDM_LFD                 "Live Finger Detect"
+    ID_CAPTUREFINGER_STARTGETIMAGE2 "ftrScanGetImage2: get image to screen."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_CAPTUREFINGER_INVERTCOLOR "Invert colors"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\ftrScanApiEx.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,14 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+fs.xs
+t/fs.t
+lib/fs.pm
+libScanAPI.so
+ftrScanAPI.a
+ftrScanAPI.dll
+ftrScanAPI.h
+ftrScanAPI.lib
+libbz2.a
