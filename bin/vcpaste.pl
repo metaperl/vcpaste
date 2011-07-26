@@ -1,7 +1,7 @@
 use DateTime;
 
 my $githubid = 'metaperl';
-my $verbose  = 0;
+my $verbose  = 1;
 
 sub datetimestamp {
 
