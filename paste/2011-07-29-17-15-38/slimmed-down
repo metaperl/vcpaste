@@ -1,0 +1,34 @@
+Result of DBIx::Simple query: $VAR1 = bless( {
+                 'lc_columns' => 1,
+                 'st' => bless( {
+                                  'sth' => bless( {}, 'DBI::st' ),
+                                  'db' => 'DBIx::Simple=HASH(0xec013c4)',
+                                  'query' => 'SELECT * FROM customers'
+                                }, 'DBIx::Simple::Statement' )
+               }, 'DBIx::Simple::Result' );
+ at Local\t\threaded.t line 28
+
+Result of DBIx::Simple-from-Local query: $VAR1 = bless( {
+                 'lc_columns' => 1,
+                 'st' => bless( {
+                                  'sth' => bless( {}, 'DBI::st' ),
+                                  'db' => 'DBIx::Simple=HASH(0xec0250c)',
+                                  'query' => 'SELECT * FROM customers'
+                                }, 'DBIx::Simple::Statement' )
+               }, 'DBIx::Simple::Result' );
+ at Local\t\threaded.t line 36
+
+Result of Local::DBIx::Simple query: $VAR1 = bless( {
+                 'lc_columns' => 1,
+                 'st' => bless( {
+                                  'what' => 'Statement object',
+                                  'cause' => 'DBIx::Simple=HASH(0xec07c74)->DESTROY at Local\t\threaded.t line 44
+
+Result of remote query: $VAR1 = bless( {
+                 'lc_columns' => '1',
+                 'st' => bless( {
+                                  'sth' => bless( {}, 'DBI::st' ),
+                                  'db' => 'DBIx::Simple=HASH(0xebfdec4)',
+                                  'query' => 'SELECT * FROM customers'
+                                }, 'DBIx::Simple::Statement' )
+               }, 'Local::DBIx::Simple::Result' );
