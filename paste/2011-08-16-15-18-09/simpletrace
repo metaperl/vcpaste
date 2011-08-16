@@ -1,0 +1,15 @@
+
+
+c:\Users\thequietcenter\prg\tmp\dbix-simple-refs>test.pl
+test.pl
+Name "main::backgroundqueue" used only once: possible typo
+	at main::(C:\Users\thequietcenter\prg\tmp\dbix-simple-refs\test.pl:20)
+Name "main::globalstandardconnection" used only once: possible typo
+	at main::(C:\Users\thequietcenter\prg\tmp\dbix-simple-refs\test.pl:27)
+Can't use string ("6") as a subroutine ref while "strict refs" in use
+	at Local::DBIx::Simple::new(<eval>:15)
+	at main::constructor(C:\Users\thequietcenter\prg\tmp\dbix-simple-refs\test.pl:78)
+	at main::main(C:\Users\thequietcenter\prg\tmp\dbix-simple-refs\test.pl:105)
+	at main::(C:\Users\thequietcenter\prg\tmp\dbix-simple-refs\test.pl:136)
+
+c:\Users\thequietcenter\prg\tmp\dbix-simple-refs>
