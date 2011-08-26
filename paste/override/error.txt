@@ -1,0 +1,12 @@
+*** unhandled exception in callback:
+***   You cannot override 'getnew' because it has no super method at C:/strawberry/perl/site/lib/Moose/Meta/Class.pm line 521
+***   	Moose::Meta::Class::add_override_method_modifier('Moose::Meta::Class=HASH(0xe9b969c)', 'getnew', 'CODE(0xe9d8fa4)', 'Local::Quickbooks::GetNewTicketData') called at C:/strawberry/perl/site/lib/Moose/Meta/Role/Application/ToClass.pm line 209
+***   	Moose::Meta::Role::Application::ToClass::apply_override_method_modifiers('Moose::Meta::Role::Application::ToClass=HASH(0xe9d8864)', 'Moose::Meta::Role=HASH(0xec09eac)', 'Moose::Meta::Class=HASH(0xe9b969c)') called at C:/strawberry/perl/site/lib/Moose/Meta/Role/Application.pm line 59
+***   	Moose::Meta::Role::Application::apply('Moose::Meta::Role::Application::ToClass=HASH(0xe9d8864)', 'Moose::Meta::Role=HASH(0xec09eac)', 'Moose::Meta::Class=HASH(0xe9b969c)') called at C:/strawberry/perl/site/lib/Moose/Meta/Role/Application/ToClass.pm line 33
+***   	Moose::Meta::Role::Application::ToClass::apply('Moose::Meta::Role::Application::ToClass=HASH(0xe9d8864)', 'Moose::Meta::Role=HASH(0xec09eac)', 'Moose::Meta::Class=HASH(0xe9b969c)', 'HASH(0xec0811c)') called at C:/strawberry/perl/site/lib/Moose/Meta/Role.pm line 482
+***   	Moose::Meta::Role::apply('Moose::Meta::Role=HASH(0xec09eac)', 'Moose::Meta::Class=HASH(0xe9b969c)') called at C:/strawberry/perl/site/lib/Moose/Util.pm line 154
+***   	Moose::Util::_apply_all_roles('Moose::Meta::Class=HASH(0xe9b969c)', undef, 'Local::Quickbooks::GetNewTicketData') called at C:/strawberry/perl/site/lib/Moose/Util.pm line 93
+***   	Moose::Util::apply_all_roles('Moose::Meta::Class=HASH(0xe9b969c)', 'Local::Quickbooks::GetNewTicketData') called at C:/strawberry/perl/site/lib/Moose.pm line 65
+***   	Moose::with('Moose::Meta::Class=HASH(0xe9b969c)', 'Local::Quickbooks::GetNewTicketData') called at C:/strawberry/perl/site/lib/Moose/Exporter.pm line 356
+***   	Moose::with('Local::Quickbooks::GetNewTicketData') called at c:\Users\thequietcenter\prg\biotrackthc\trunk\Local\lib/Local/Quickbooks/InvoiceAdd.pm line 10
+***   	require Local/Quickbooks/InvoiceAdd.pm
