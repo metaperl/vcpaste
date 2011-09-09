@@ -1,0 +1,1274 @@
+C:\strawberry\perl\site\bin/pp: Packing webapp.pl
+C:\strawberry\perl\site\bin/pp: Writing PAR on C:\Users\THEQUI~1\AppData\Local\Temp\ppwQype.par
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/AutoLoader.pm as lib/AutoLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/B.pm as lib/B.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Carp.pm as lib/Carp.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Carp/Heavy.pm as lib/Carp/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config.pm as lib/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_git.pl as lib/Config_git.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_heavy.pl as lib/Config_heavy.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Cwd.pm as lib/Cwd.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Data/Dumper.pm as lib/Data/Dumper.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/MD5.pm as lib/Digest/MD5.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/SHA.pm as lib/Digest/SHA.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/base.pm as lib/Digest/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/DynaLoader.pm as lib/DynaLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode.pm as lib/Encode.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Alias.pm as lib/Encode/Alias.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Config.pm as lib/Encode/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Encoding.pm as lib/Encode/Encoding.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Errno.pm as lib/Errno.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Exporter.pm as lib/Exporter.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Exporter/Heavy.pm as lib/Exporter/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Fatal.pm as lib/Fatal.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Fcntl.pm as lib/Fcntl.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Basename.pm as lib/File/Basename.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Copy.pm as lib/File/Copy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Find.pm as lib/File/Find.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Path.pm as lib/File/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec.pm as lib/File/Spec.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec/Unix.pm as lib/File/Spec/Unix.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec/Win32.pm as lib/File/Spec/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/FindBin.pm as lib/FindBin.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Getopt/Long.pm as lib/Getopt/Long.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO.pm as lib/IO.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/File.pm as lib/IO/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/Handle.pm as lib/IO/Handle.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/Seekable.pm as lib/IO/Seekable.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/List/Util.pm as lib/List/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/MIME/Base64.pm as lib/MIME/Base64.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/MIME/QuotedPrint.pm as lib/MIME/QuotedPrint.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo.pm as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset.pm as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset/File.pm as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset/Memory.pm as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Base.pm as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/ByteStream.pm as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cache.pm as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Collection.pm as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Command.pm as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content.pm as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content/MultiPart.pm as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content/Single.pm as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie.pm as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie/Request.pm as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie/Response.pm as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM.pm as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM/CSS.pm as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM/HTML.pm as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Date.pm as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Exception.pm as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Headers.pm as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Home.pm as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/JSON.pm as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Loader.pm as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Log.pm as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message.pm as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message/Request.pm as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message/Response.pm as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Parameters.pm as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Path.pm as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Server.pm as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Template.pm as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction.pm as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction/HTTP.pm as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction/WebSocket.pm as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/URL.pm as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Upload.pm as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Util.pm as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious.pm as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Commands.pm as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Controller.pm as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Lite.pm as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin.pm as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/CallbackCondition.pm as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/DefaultHelpers.pm as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPRenderer.pm as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/HeaderCondition.pm as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/PoweredBy.pm as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/RequestTimer.pm as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/TagHelpers.pm as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugins.pm as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Renderer.pm as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes.pm as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes/Match.pm as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes/Pattern.pm as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Sessions.pm as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Static.pm as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Types.pm as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/POSIX.pm as lib/POSIX.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Scalar/Util.pm as lib/Scalar/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/SelectSaver.pm as lib/SelectSaver.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Symbol.pm as lib/Symbol.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Tie/Hash.pm as lib/Tie/Hash.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Tie/RefHash.pm as lib/Tie/RefHash.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Time/HiRes.pm as lib/Time/HiRes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Time/Local.pm as lib/Time/Local.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Win32.pm as lib/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/XSLoader.pm as lib/XSLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/B/B.dll as lib/auto/B/B.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.bs as lib/auto/Cwd/Cwd.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.dll as lib/auto/Cwd/Cwd.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.bs as lib/auto/Data/Dumper/Dumper.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.dll as lib/auto/Data/Dumper/Dumper.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.bs as lib/auto/Digest/MD5/MD5.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.dll as lib/auto/Digest/MD5/MD5.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.bs as lib/auto/Digest/SHA/SHA.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.dll as lib/auto/Digest/SHA/SHA.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.bs as lib/auto/Encode/Encode.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.dll as lib/auto/Encode/Encode.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Fcntl/Fcntl.dll as lib/auto/Fcntl/Fcntl.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/IO/IO.dll as lib/auto/IO/IO.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.bs as lib/auto/List/Util/Util.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.dll as lib/auto/List/Util/Util.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.bs as lib/auto/MIME/Base64/Base64.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.dll as lib/auto/MIME/Base64/Base64.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/POSIX.dll as lib/auto/POSIX/POSIX.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/autosplit.ix as lib/auto/POSIX/autosplit.ix
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.bs as lib/auto/Time/HiRes/HiRes.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.dll as lib/auto/Time/HiRes/HiRes.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.bs as lib/auto/Win32/Win32.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.dll as lib/auto/Win32/Win32.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/autodie.pm as lib/autodie.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/autodie/exception.pm as lib/autodie/exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/base.pm as lib/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/bytes.pm as lib/bytes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/constant.pm as lib/constant.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/feature.pm as lib/feature.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/if.pm as lib/if.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/integer.pm as lib/integer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/overload.pm as lib/overload.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/re.pm as lib/re.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/strict.pm as lib/strict.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/vars.pm as lib/vars.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/warnings.pm as lib/warnings.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/warnings/register.pm as lib/warnings/register.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as MANIFEST
+C:\strawberry\perl\site\bin/pp: ... adding <string> as META.yml
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/AutoLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/B.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Carp.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Carp/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_git.pl as lib/Config_git.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_heavy.pl as lib/Config_heavy.pl
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Cwd.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Data/Dumper.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/MD5.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/SHA.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/DynaLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Alias.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Encoding.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Errno.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Exporter.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Exporter/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Fatal.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Fcntl.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Basename.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Copy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Find.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec/Unix.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/FindBin.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Getopt/Long.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/Handle.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/Seekable.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/List/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/MIME/Base64.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/MIME/QuotedPrint.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/POSIX.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Scalar/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/SelectSaver.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Symbol.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Tie/Hash.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Tie/RefHash.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Time/HiRes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Time/Local.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/XSLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/B/B.dll as lib/auto/B/B.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.bs as lib/auto/Cwd/Cwd.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.dll as lib/auto/Cwd/Cwd.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.bs as lib/auto/Data/Dumper/Dumper.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.dll as lib/auto/Data/Dumper/Dumper.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.bs as lib/auto/Digest/MD5/MD5.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.dll as lib/auto/Digest/MD5/MD5.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.bs as lib/auto/Digest/SHA/SHA.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.dll as lib/auto/Digest/SHA/SHA.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.bs as lib/auto/Encode/Encode.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.dll as lib/auto/Encode/Encode.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Fcntl/Fcntl.dll as lib/auto/Fcntl/Fcntl.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/IO/IO.dll as lib/auto/IO/IO.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.bs as lib/auto/List/Util/Util.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.dll as lib/auto/List/Util/Util.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.bs as lib/auto/MIME/Base64/Base64.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.dll as lib/auto/MIME/Base64/Base64.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/POSIX.dll as lib/auto/POSIX/POSIX.dll
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/auto/POSIX/autosplit.ix
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.bs as lib/auto/Time/HiRes/HiRes.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.dll as lib/auto/Time/HiRes/HiRes.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.bs as lib/auto/Win32/Win32.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.dll as lib/auto/Win32/Win32.dll
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/autodie.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/autodie/exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/bytes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/constant.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/feature.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/if.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/integer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/overload.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/re.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/strict.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/vars.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/warnings.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/warnings/register.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as script/main.pl
+C:\strawberry\perl\site\bin/pp: ... adding <string> as script/webapp.pl
+C:\strawberry\perl\site\bin/pp: Writing extra files to C:\Users\THEQUI~1\AppData\Local\Temp\ppwQype.par
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo.pm as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset.pm as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset/File.pm as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset/Memory.pm as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Base.pm as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/ByteStream.pm as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cache.pm as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Collection.pm as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Command.pm as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content.pm as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content/MultiPart.pm as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content/Single.pm as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie.pm as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie/Request.pm as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie/Response.pm as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/CookieJar.pm as lib/Mojo/CookieJar.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM.pm as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM/CSS.pm as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM/HTML.pm as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Date.pm as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Exception.pm as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Headers.pm as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/HelloWorld.pm as lib/Mojo/HelloWorld.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Home.pm as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop.pm as lib/Mojo/IOLoop.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Client.pm as lib/Mojo/IOLoop/Client.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/EventEmitter.pm as lib/Mojo/IOLoop/EventEmitter.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Resolver.pm as lib/Mojo/IOLoop/Resolver.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Server.pm as lib/Mojo/IOLoop/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Stream.pm as lib/Mojo/IOLoop/Stream.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Trigger.pm as lib/Mojo/IOLoop/Trigger.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOWatcher.pm as lib/Mojo/IOWatcher.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOWatcher/EV.pm as lib/Mojo/IOWatcher/EV.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/JSON.pm as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Loader.pm as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Log.pm as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message.pm as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message/Request.pm as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message/Response.pm as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Parameters.pm as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Path.pm as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server.pm as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/CGI.pm as lib/Mojo/Server/CGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Daemon.pm as lib/Mojo/Server/Daemon.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/FastCGI.pm as lib/Mojo/Server/FastCGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Hypnotoad.pm as lib/Mojo/Server/Hypnotoad.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Morbo.pm as lib/Mojo/Server/Morbo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/PSGI.pm as lib/Mojo/Server/PSGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Template.pm as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction.pm as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction/HTTP.pm as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction/WebSocket.pm as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/URL.pm as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Upload.pm as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/UserAgent.pm as lib/Mojo/UserAgent.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/UserAgent/Transactor.pm as lib/Mojo/UserAgent/Transactor.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Util.pm as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious.pm as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/cgi.pm as lib/Mojolicious/Command/cgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/cpanify.pm as lib/Mojolicious/Command/cpanify.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/daemon.pm as lib/Mojolicious/Command/daemon.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/eval.pm as lib/Mojolicious/Command/eval.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/fastcgi.pm as lib/Mojolicious/Command/fastcgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate.pm as lib/Mojolicious/Command/generate.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/app.pm as lib/Mojolicious/Command/generate/app.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/gitignore.pm as lib/Mojolicious/Command/generate/gitignore.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/hypnotoad.pm as lib/Mojolicious/Command/generate/hypnotoad.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/lite_app.pm as lib/Mojolicious/Command/generate/lite_app.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/makefile.pm as lib/Mojolicious/Command/generate/makefile.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/plugin.pm as lib/Mojolicious/Command/generate/plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/get.pm as lib/Mojolicious/Command/get.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/inflate.pm as lib/Mojolicious/Command/inflate.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/psgi.pm as lib/Mojolicious/Command/psgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/routes.pm as lib/Mojolicious/Command/routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/test.pm as lib/Mojolicious/Command/test.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/version.pm as lib/Mojolicious/Command/version.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Commands.pm as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Controller.pm as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides.pod as lib/Mojolicious/Guides.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Cheatsheet.pod as lib/Mojolicious/Guides/Cheatsheet.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/CodingGuidelines.pod as lib/Mojolicious/Guides/CodingGuidelines.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Cookbook.pod as lib/Mojolicious/Guides/Cookbook.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/FAQ.pod as lib/Mojolicious/Guides/FAQ.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Growing.pod as lib/Mojolicious/Guides/Growing.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Rendering.pod as lib/Mojolicious/Guides/Rendering.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Routing.pod as lib/Mojolicious/Guides/Routing.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Lite.pm as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin.pm as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/CallbackCondition.pm as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Charset.pm as lib/Mojolicious/Plugin/Charset.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Config.pm as lib/Mojolicious/Plugin/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/DefaultHelpers.pm as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/EPLRenderer.pm as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/EPRenderer.pm as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/HeaderCondition.pm as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/I18N.pm as lib/Mojolicious/Plugin/I18N.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/JSONConfig.pm as lib/Mojolicious/Plugin/JSONConfig.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Mount.pm as lib/Mojolicious/Plugin/Mount.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/PODRenderer.pm as lib/Mojolicious/Plugin/PODRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/PoweredBy.pm as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/RequestTimer.pm as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/TagHelpers.pm as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugins.pm as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Renderer.pm as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes.pm as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes/Match.pm as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes/Pattern.pm as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Sessions.pm as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Static.pm as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Types.pm as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/amelia.png as lib/Mojolicious/public/amelia.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/css/prettify-mojo.css as lib/Mojolicious/public/css/prettify-mojo.css
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/css/prettify.css as lib/Mojolicious/public/css/prettify.css
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/failraptor.png as lib/Mojolicious/public/failraptor.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/favicon.ico as lib/Mojolicious/public/favicon.ico
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/jquery.js as lib/Mojolicious/public/js/jquery.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-apollo.js as lib/Mojolicious/public/js/lang-apollo.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-clj.js as lib/Mojolicious/public/js/lang-clj.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-css.js as lib/Mojolicious/public/js/lang-css.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-go.js as lib/Mojolicious/public/js/lang-go.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-hs.js as lib/Mojolicious/public/js/lang-hs.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-lisp.js as lib/Mojolicious/public/js/lang-lisp.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-lua.js as lib/Mojolicious/public/js/lang-lua.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-ml.js as lib/Mojolicious/public/js/lang-ml.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-n.js as lib/Mojolicious/public/js/lang-n.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-proto.js as lib/Mojolicious/public/js/lang-proto.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-scala.js as lib/Mojolicious/public/js/lang-scala.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-sql.js as lib/Mojolicious/public/js/lang-sql.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-tex.js as lib/Mojolicious/public/js/lang-tex.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-vb.js as lib/Mojolicious/public/js/lang-vb.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-vhdl.js as lib/Mojolicious/public/js/lang-vhdl.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-wiki.js as lib/Mojolicious/public/js/lang-wiki.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-xq.js as lib/Mojolicious/public/js/lang-xq.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-yaml.js as lib/Mojolicious/public/js/lang-yaml.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/prettify.js as lib/Mojolicious/public/js/prettify.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-arrow.png as lib/Mojolicious/public/mojolicious-arrow.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-black.png as lib/Mojolicious/public/mojolicious-black.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-box.png as lib/Mojolicious/public/mojolicious-box.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-clouds.png as lib/Mojolicious/public/mojolicious-clouds.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-noraptor.png as lib/Mojolicious/public/mojolicious-noraptor.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-notfound.png as lib/Mojolicious/public/mojolicious-notfound.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-pinstripe.gif as lib/Mojolicious/public/mojolicious-pinstripe.gif
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-white.png as lib/Mojolicious/public/mojolicious-white.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/exception.development.html.ep as lib/Mojolicious/templates/exception.development.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/exception.html.ep as lib/Mojolicious/templates/exception.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/mojobar.html.ep as lib/Mojolicious/templates/mojobar.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/not_found.development.html.ep as lib/Mojolicious/templates/not_found.development.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/not_found.html.ep as lib/Mojolicious/templates/not_found.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/perldoc.html.ep as lib/Mojolicious/templates/perldoc.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Test/Mojo.pm as lib/Test/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/ojo.pm as lib/ojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding log/development.log as log/development.log
+C:\strawberry\perl\site\bin/pp: ... adding log/hi as log/hi
+C:\strawberry\perl\site\bin/pp: ... adding log/s.txt as log/s.txt
+C:\strawberry\perl\site\bin/pp: ... adding log/simp.txt as log/simp.txt
+C:\strawberry\perl\site\bin/pp: ... adding log/w.txt as log/w.txt
+C:\strawberry\perl\site\bin/pp: ... updating MANIFEST
+C:\strawberry\perl\site\bin/pp: ... updating META.yml
+C:\strawberry\perl\site\bin/pp: *** C:\Users\THEQUI~1\AppData\Local\Temp\ppwQype.par: 4234367 bytes read, 1214071 compressed, 71% saved.
+C:\strawberry\perl\site\bin/pp: Generating a fresh 'parl'.
+C:\strawberry\perl\site\bin/pp: Running C:\Users\THEQUI~1\AppData\Local\Temp\parlK_AqpG5.exe -Llog/w.txt -B -Ow.exe C:\Users\THEQUI~1\AppData\Local\Temp\ppwQype.par
+Packing "Carp.pm"...
+Written as "Carp.pm"
+Packing "AutoLoader.pm"...
+Written as "AutoLoader.pm"
+Packing "Carp/Heavy.pm"...
+Written as "Carp/Heavy.pm"
+Packing "Compress/Raw/Zlib.pm"...
+Written as "Compress/Raw/Zlib.pm"
+Packing "Compress/Zlib.pm"...
+Written as "Compress/Zlib.pm"
+Packing "Config.pm"...
+Written as "Config.pm"
+Packing "Config_git.pl"...
+Written as "Config_git.pl"
+Packing "Config_heavy.pl"...
+Written as "Config_heavy.pl"
+Packing "Cwd.pm"...
+Written as "Cwd.pm"
+Packing "DynaLoader.pm"...
+Written as "DynaLoader.pm"
+Packing "Errno.pm"...
+Written as "Errno.pm"
+Packing "Exporter.pm"...
+Written as "Exporter.pm"
+Packing "Exporter/Heavy.pm"...
+Written as "Exporter/Heavy.pm"
+Packing "Fcntl.pm"...
+Written as "Fcntl.pm"
+Packing "File/Basename.pm"...
+Written as "File/Basename.pm"
+Packing "File/Copy.pm"...
+Written as "File/Copy.pm"
+Packing "File/Find.pm"...
+Written as "File/Find.pm"
+Packing "File/Glob.pm"...
+Written as "File/Glob.pm"
+Packing "File/GlobMapper.pm"...
+Written as "File/GlobMapper.pm"
+Packing "File/Path.pm"...
+Written as "File/Path.pm"
+Packing "File/Spec.pm"...
+Written as "File/Spec.pm"
+Packing "File/Spec/Unix.pm"...
+Written as "File/Spec/Unix.pm"
+Packing "File/Spec/Win32.pm"...
+Written as "File/Spec/Win32.pm"
+Packing "File/Temp.pm"...
+Written as "File/Temp.pm"
+Packing "FileHandle.pm"...
+Written as "FileHandle.pm"
+Packing "IO.pm"...
+Written as "IO.pm"
+Packing "IO/Compress/Adapter/Deflate.pm"...
+Written as "IO/Compress/Adapter/Deflate.pm"
+Packing "IO/Compress/Base.pm"...
+Written as "IO/Compress/Base.pm"
+Packing "IO/Compress/Base/Common.pm"...
+Written as "IO/Compress/Base/Common.pm"
+Packing "IO/Compress/Gzip.pm"...
+Written as "IO/Compress/Gzip.pm"
+Packing "IO/Compress/Gzip/Constants.pm"...
+Written as "IO/Compress/Gzip/Constants.pm"
+Packing "IO/Compress/RawDeflate.pm"...
+Written as "IO/Compress/RawDeflate.pm"
+Packing "IO/Compress/Zlib/Extra.pm"...
+Written as "IO/Compress/Zlib/Extra.pm"
+Packing "IO/File.pm"...
+Written as "IO/File.pm"
+Packing "IO/Handle.pm"...
+Written as "IO/Handle.pm"
+Packing "IO/Seekable.pm"...
+Written as "IO/Seekable.pm"
+Packing "IO/Uncompress/Adapter/Inflate.pm"...
+Written as "IO/Uncompress/Adapter/Inflate.pm"
+Packing "IO/Uncompress/Base.pm"...
+Written as "IO/Uncompress/Base.pm"
+Packing "IO/Uncompress/Gunzip.pm"...
+Written as "IO/Uncompress/Gunzip.pm"
+Packing "IO/Uncompress/RawInflate.pm"...
+Written as "IO/Uncompress/RawInflate.pm"
+Packing "List/Util.pm"...
+Written as "List/Util.pm"
+Packing "PerlIO.pm"...
+Written as "PerlIO.pm"
+Packing "PerlIO/scalar.pm"...
+Written as "PerlIO/scalar.pm"
+Packing "Scalar/Util.pm"...
+Written as "Scalar/Util.pm"
+Packing "SelectSaver.pm"...
+Written as "SelectSaver.pm"
+Packing "Symbol.pm"...
+Written as "Symbol.pm"
+Packing "Tie/Hash/NamedCapture.pm"...
+Written as "Tie/Hash/NamedCapture.pm"
+Packing "Time/Local.pm"...
+Written as "Time/Local.pm"
+Packing "UNIVERSAL.pm"...
+Written as "UNIVERSAL.pm"
+Packing "Win32.pm"...
+Written as "Win32.pm"
+Packing "XSLoader.pm"...
+Written as "XSLoader.pm"
+Packing "attributes.pm"...
+Written as "attributes.pm"
+Packing "auto/Compress/Raw/Zlib/autosplit.ix"...
+Written as "auto/Compress/Raw/Zlib/autosplit.ix"
+Packing "auto/DynaLoader/dl_findfile.al"...
+Written as "auto/DynaLoader/dl_findfile.al"
+Packing "base.pm"...
+Written as "base.pm"
+Packing "bytes.pm"...
+Written as "bytes.pm"
+Packing "constant.pm"...
+Written as "constant.pm"
+Packing "integer.pm"...
+Written as "integer.pm"
+Packing "lib.pm"...
+Written as "lib.pm"
+Packing "overload.pm"...
+Written as "overload.pm"
+Packing "re.pm"...
+Written as "re.pm"
+Packing "strict.pm"...
+Written as "strict.pm"
+Packing "utf8.pm"...
+Written as "utf8.pm"
+Packing "vars.pm"...
+Written as "vars.pm"
+Packing "warnings.pm"...
+Written as "warnings.pm"
+Packing "warnings/register.pm"...
+Written as "warnings/register.pm"
+Packing "PAR/Filter.pm"...
+Written as "PAR/Filter.pm"
+Packing "PAR/Filter/PatchContent.pm"...
+Written as "PAR/Filter/PatchContent.pm"
+Packing "PAR/Filter/PodStrip.pm"...
+Written as "PAR/Filter/PodStrip.pm"
+Packing "Archive/Zip.pm"...
+Written as "Archive/Zip.pm"
+Packing "Archive/Zip/Archive.pm"...
+Written as "Archive/Zip/Archive.pm"
+Packing "Archive/Zip/DirectoryMember.pm"...
+Written as "Archive/Zip/DirectoryMember.pm"
+Packing "Archive/Zip/FileMember.pm"...
+Written as "Archive/Zip/FileMember.pm"
+Packing "Archive/Zip/Member.pm"...
+Written as "Archive/Zip/Member.pm"
+Packing "Archive/Zip/NewFileMember.pm"...
+Written as "Archive/Zip/NewFileMember.pm"
+Packing "Archive/Zip/StringMember.pm"...
+Written as "Archive/Zip/StringMember.pm"
+Packing "Archive/Zip/ZipFileMember.pm"...
+Written as "Archive/Zip/ZipFileMember.pm"
+Packing "PAR.pm"...
+Written as "PAR.pm"
+Packing "PAR/Dist.pm"...
+Written as "PAR/Dist.pm"
+Packing "PAR/Heavy.pm"...
+Written as "PAR/Heavy.pm"
+Packing "PAR/SetupProgname.pm"...
+Written as "PAR/SetupProgname.pm"
+Packing "PAR/SetupTemp.pm"...
+Written as "PAR/SetupTemp.pm"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/09f36e3a.dll"...
+Written as "auto/IO/IO.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/140b4240.dll"...
+Written as "auto/Cwd/Cwd.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/1476eef8.dll"...
+Written as "auto/Win32/Win32.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/2e98a51c.dll"...
+Written as "auto/Fcntl/Fcntl.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/4102421d.dll"...
+Written as "auto/List/Util/Util.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/66f1702a.dll"...
+Written as "auto/PerlIO/scalar/scalar.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/c8b1dd32.dll"...
+Written as "auto/Compress/Raw/Zlib/Zlib.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/ce5e4940.dll"...
+Written as "auto/File/Glob/Glob.dll"
+C:\strawberry\perl\site\bin/pp: Running  w.exe 
+C:\strawberry\perl\site\bin/pp: Packing webapp.pl
+C:\strawberry\perl\site\bin/pp: Writing PAR on C:\Users\THEQUI~1\AppData\Local\Temp\ppJZs_N.par
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/AutoLoader.pm as lib/AutoLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/B.pm as lib/B.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Carp.pm as lib/Carp.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Carp/Heavy.pm as lib/Carp/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config.pm as lib/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_git.pl as lib/Config_git.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_heavy.pl as lib/Config_heavy.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Cwd.pm as lib/Cwd.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Data/Dumper.pm as lib/Data/Dumper.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/MD5.pm as lib/Digest/MD5.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/SHA.pm as lib/Digest/SHA.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Digest/base.pm as lib/Digest/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/DynaLoader.pm as lib/DynaLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode.pm as lib/Encode.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Alias.pm as lib/Encode/Alias.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Config.pm as lib/Encode/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Encode/Encoding.pm as lib/Encode/Encoding.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Errno.pm as lib/Errno.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Exporter.pm as lib/Exporter.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Exporter/Heavy.pm as lib/Exporter/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Fatal.pm as lib/Fatal.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Fcntl.pm as lib/Fcntl.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Basename.pm as lib/File/Basename.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Copy.pm as lib/File/Copy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Find.pm as lib/File/Find.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Path.pm as lib/File/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec.pm as lib/File/Spec.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec/Unix.pm as lib/File/Spec/Unix.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/File/Spec/Win32.pm as lib/File/Spec/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/FindBin.pm as lib/FindBin.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Getopt/Long.pm as lib/Getopt/Long.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO.pm as lib/IO.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/File.pm as lib/IO/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/Handle.pm as lib/IO/Handle.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/IO/Seekable.pm as lib/IO/Seekable.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/List/Util.pm as lib/List/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/MIME/Base64.pm as lib/MIME/Base64.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/MIME/QuotedPrint.pm as lib/MIME/QuotedPrint.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo.pm as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset.pm as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset/File.pm as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Asset/Memory.pm as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Base.pm as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/ByteStream.pm as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cache.pm as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Collection.pm as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Command.pm as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content.pm as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content/MultiPart.pm as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Content/Single.pm as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie.pm as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie/Request.pm as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Cookie/Response.pm as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM.pm as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM/CSS.pm as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/DOM/HTML.pm as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Date.pm as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Exception.pm as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Headers.pm as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Home.pm as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/JSON.pm as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Loader.pm as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Log.pm as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message.pm as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message/Request.pm as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Message/Response.pm as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Parameters.pm as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Path.pm as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Server.pm as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Template.pm as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction.pm as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction/HTTP.pm as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Transaction/WebSocket.pm as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/URL.pm as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Upload.pm as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojo/Util.pm as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious.pm as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Commands.pm as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Controller.pm as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Lite.pm as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin.pm as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/CallbackCondition.pm as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/DefaultHelpers.pm as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPLRenderer.pm as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/EPRenderer.pm as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/HeaderCondition.pm as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/PoweredBy.pm as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/RequestTimer.pm as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugin/TagHelpers.pm as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Plugins.pm as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Renderer.pm as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes.pm as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes/Match.pm as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Routes/Pattern.pm as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Sessions.pm as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Static.pm as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/site/lib/Mojolicious/Types.pm as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/POSIX.pm as lib/POSIX.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Scalar/Util.pm as lib/Scalar/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/SelectSaver.pm as lib/SelectSaver.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Symbol.pm as lib/Symbol.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Tie/Hash.pm as lib/Tie/Hash.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Tie/RefHash.pm as lib/Tie/RefHash.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Time/HiRes.pm as lib/Time/HiRes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Time/Local.pm as lib/Time/Local.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Win32.pm as lib/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/XSLoader.pm as lib/XSLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/B/B.dll as lib/auto/B/B.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.bs as lib/auto/Cwd/Cwd.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.dll as lib/auto/Cwd/Cwd.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.bs as lib/auto/Data/Dumper/Dumper.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.dll as lib/auto/Data/Dumper/Dumper.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.bs as lib/auto/Digest/MD5/MD5.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.dll as lib/auto/Digest/MD5/MD5.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.bs as lib/auto/Digest/SHA/SHA.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.dll as lib/auto/Digest/SHA/SHA.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.bs as lib/auto/Encode/Encode.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.dll as lib/auto/Encode/Encode.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Fcntl/Fcntl.dll as lib/auto/Fcntl/Fcntl.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/IO/IO.dll as lib/auto/IO/IO.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.bs as lib/auto/List/Util/Util.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.dll as lib/auto/List/Util/Util.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.bs as lib/auto/MIME/Base64/Base64.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.dll as lib/auto/MIME/Base64/Base64.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/POSIX.dll as lib/auto/POSIX/POSIX.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/autosplit.ix as lib/auto/POSIX/autosplit.ix
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.bs as lib/auto/Time/HiRes/HiRes.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.dll as lib/auto/Time/HiRes/HiRes.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.bs as lib/auto/Win32/Win32.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.dll as lib/auto/Win32/Win32.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/autodie.pm as lib/autodie.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/autodie/exception.pm as lib/autodie/exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/base.pm as lib/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/bytes.pm as lib/bytes.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/constant.pm as lib/constant.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/feature.pm as lib/feature.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/if.pm as lib/if.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/integer.pm as lib/integer.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/overload.pm as lib/overload.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/re.pm as lib/re.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/strict.pm as lib/strict.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/vars.pm as lib/vars.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/warnings.pm as lib/warnings.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/warnings/register.pm as lib/warnings/register.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as MANIFEST
+C:\strawberry\perl\site\bin/pp: ... adding <string> as META.yml
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/AutoLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/B.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Carp.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Carp/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_git.pl as lib/Config_git.pl
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/Config_heavy.pl as lib/Config_heavy.pl
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Cwd.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Data/Dumper.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/MD5.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/SHA.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Digest/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/DynaLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Alias.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Encode/Encoding.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Errno.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Exporter.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Exporter/Heavy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Fatal.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Fcntl.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Basename.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Copy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Find.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec/Unix.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/File/Spec/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/FindBin.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Getopt/Long.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/Handle.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/IO/Seekable.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/List/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/MIME/Base64.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/MIME/QuotedPrint.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/POSIX.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Scalar/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/SelectSaver.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Symbol.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Tie/Hash.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Tie/RefHash.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Time/HiRes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Time/Local.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/Win32.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/XSLoader.pm
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/B/B.dll as lib/auto/B/B.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.bs as lib/auto/Cwd/Cwd.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Cwd/Cwd.dll as lib/auto/Cwd/Cwd.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.bs as lib/auto/Data/Dumper/Dumper.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Data/Dumper/Dumper.dll as lib/auto/Data/Dumper/Dumper.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.bs as lib/auto/Digest/MD5/MD5.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/MD5/MD5.dll as lib/auto/Digest/MD5/MD5.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.bs as lib/auto/Digest/SHA/SHA.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Digest/SHA/SHA.dll as lib/auto/Digest/SHA/SHA.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.bs as lib/auto/Encode/Encode.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Encode/Encode.dll as lib/auto/Encode/Encode.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Fcntl/Fcntl.dll as lib/auto/Fcntl/Fcntl.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/IO/IO.dll as lib/auto/IO/IO.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.bs as lib/auto/List/Util/Util.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/List/Util/Util.dll as lib/auto/List/Util/Util.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.bs as lib/auto/MIME/Base64/Base64.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/MIME/Base64/Base64.dll as lib/auto/MIME/Base64/Base64.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/POSIX/POSIX.dll as lib/auto/POSIX/POSIX.dll
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/auto/POSIX/autosplit.ix
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.bs as lib/auto/Time/HiRes/HiRes.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Time/HiRes/HiRes.dll as lib/auto/Time/HiRes/HiRes.dll
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.bs as lib/auto/Win32/Win32.bs
+C:\strawberry\perl\site\bin/pp: ... adding C:/strawberry/perl/lib/auto/Win32/Win32.dll as lib/auto/Win32/Win32.dll
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/autodie.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/autodie/exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/base.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/bytes.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/constant.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/feature.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/if.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/integer.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/overload.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/re.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/strict.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/vars.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/warnings.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as lib/warnings/register.pm
+C:\strawberry\perl\site\bin/pp: ... adding <string> as script/main.pl
+C:\strawberry\perl\site\bin/pp: ... adding <string> as script/webapp.pl
+C:\strawberry\perl\site\bin/pp: Writing extra files to C:\Users\THEQUI~1\AppData\Local\Temp\ppJZs_N.par
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo.pm as lib/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset.pm as lib/Mojo/Asset.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset/File.pm as lib/Mojo/Asset/File.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Asset/Memory.pm as lib/Mojo/Asset/Memory.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Base.pm as lib/Mojo/Base.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/ByteStream.pm as lib/Mojo/ByteStream.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cache.pm as lib/Mojo/Cache.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Collection.pm as lib/Mojo/Collection.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Command.pm as lib/Mojo/Command.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content.pm as lib/Mojo/Content.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content/MultiPart.pm as lib/Mojo/Content/MultiPart.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Content/Single.pm as lib/Mojo/Content/Single.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie.pm as lib/Mojo/Cookie.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie/Request.pm as lib/Mojo/Cookie/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Cookie/Response.pm as lib/Mojo/Cookie/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/CookieJar.pm as lib/Mojo/CookieJar.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM.pm as lib/Mojo/DOM.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM/CSS.pm as lib/Mojo/DOM/CSS.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/DOM/HTML.pm as lib/Mojo/DOM/HTML.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Date.pm as lib/Mojo/Date.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Exception.pm as lib/Mojo/Exception.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Headers.pm as lib/Mojo/Headers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/HelloWorld.pm as lib/Mojo/HelloWorld.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Home.pm as lib/Mojo/Home.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop.pm as lib/Mojo/IOLoop.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Client.pm as lib/Mojo/IOLoop/Client.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/EventEmitter.pm as lib/Mojo/IOLoop/EventEmitter.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Resolver.pm as lib/Mojo/IOLoop/Resolver.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Server.pm as lib/Mojo/IOLoop/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Stream.pm as lib/Mojo/IOLoop/Stream.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOLoop/Trigger.pm as lib/Mojo/IOLoop/Trigger.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOWatcher.pm as lib/Mojo/IOWatcher.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/IOWatcher/EV.pm as lib/Mojo/IOWatcher/EV.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/JSON.pm as lib/Mojo/JSON.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Loader.pm as lib/Mojo/Loader.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Log.pm as lib/Mojo/Log.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message.pm as lib/Mojo/Message.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message/Request.pm as lib/Mojo/Message/Request.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Message/Response.pm as lib/Mojo/Message/Response.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Parameters.pm as lib/Mojo/Parameters.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Path.pm as lib/Mojo/Path.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server.pm as lib/Mojo/Server.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/CGI.pm as lib/Mojo/Server/CGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Daemon.pm as lib/Mojo/Server/Daemon.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/FastCGI.pm as lib/Mojo/Server/FastCGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Hypnotoad.pm as lib/Mojo/Server/Hypnotoad.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/Morbo.pm as lib/Mojo/Server/Morbo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Server/PSGI.pm as lib/Mojo/Server/PSGI.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Template.pm as lib/Mojo/Template.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction.pm as lib/Mojo/Transaction.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction/HTTP.pm as lib/Mojo/Transaction/HTTP.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Transaction/WebSocket.pm as lib/Mojo/Transaction/WebSocket.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/URL.pm as lib/Mojo/URL.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Upload.pm as lib/Mojo/Upload.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/UserAgent.pm as lib/Mojo/UserAgent.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/UserAgent/Transactor.pm as lib/Mojo/UserAgent/Transactor.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojo/Util.pm as lib/Mojo/Util.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious.pm as lib/Mojolicious.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/cgi.pm as lib/Mojolicious/Command/cgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/cpanify.pm as lib/Mojolicious/Command/cpanify.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/daemon.pm as lib/Mojolicious/Command/daemon.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/eval.pm as lib/Mojolicious/Command/eval.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/fastcgi.pm as lib/Mojolicious/Command/fastcgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate.pm as lib/Mojolicious/Command/generate.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/app.pm as lib/Mojolicious/Command/generate/app.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/gitignore.pm as lib/Mojolicious/Command/generate/gitignore.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/hypnotoad.pm as lib/Mojolicious/Command/generate/hypnotoad.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/lite_app.pm as lib/Mojolicious/Command/generate/lite_app.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/makefile.pm as lib/Mojolicious/Command/generate/makefile.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/generate/plugin.pm as lib/Mojolicious/Command/generate/plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/get.pm as lib/Mojolicious/Command/get.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/inflate.pm as lib/Mojolicious/Command/inflate.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/psgi.pm as lib/Mojolicious/Command/psgi.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/routes.pm as lib/Mojolicious/Command/routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/test.pm as lib/Mojolicious/Command/test.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Command/version.pm as lib/Mojolicious/Command/version.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Commands.pm as lib/Mojolicious/Commands.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Controller.pm as lib/Mojolicious/Controller.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides.pod as lib/Mojolicious/Guides.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Cheatsheet.pod as lib/Mojolicious/Guides/Cheatsheet.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/CodingGuidelines.pod as lib/Mojolicious/Guides/CodingGuidelines.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Cookbook.pod as lib/Mojolicious/Guides/Cookbook.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/FAQ.pod as lib/Mojolicious/Guides/FAQ.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Growing.pod as lib/Mojolicious/Guides/Growing.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Rendering.pod as lib/Mojolicious/Guides/Rendering.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Guides/Routing.pod as lib/Mojolicious/Guides/Routing.pod
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Lite.pm as lib/Mojolicious/Lite.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin.pm as lib/Mojolicious/Plugin.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/CallbackCondition.pm as lib/Mojolicious/Plugin/CallbackCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Charset.pm as lib/Mojolicious/Plugin/Charset.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Config.pm as lib/Mojolicious/Plugin/Config.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/DefaultHelpers.pm as lib/Mojolicious/Plugin/DefaultHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/EPLRenderer.pm as lib/Mojolicious/Plugin/EPLRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/EPRenderer.pm as lib/Mojolicious/Plugin/EPRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/HeaderCondition.pm as lib/Mojolicious/Plugin/HeaderCondition.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/I18N.pm as lib/Mojolicious/Plugin/I18N.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/JSONConfig.pm as lib/Mojolicious/Plugin/JSONConfig.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/Mount.pm as lib/Mojolicious/Plugin/Mount.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/PODRenderer.pm as lib/Mojolicious/Plugin/PODRenderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/PoweredBy.pm as lib/Mojolicious/Plugin/PoweredBy.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/RequestTimer.pm as lib/Mojolicious/Plugin/RequestTimer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugin/TagHelpers.pm as lib/Mojolicious/Plugin/TagHelpers.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Plugins.pm as lib/Mojolicious/Plugins.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Renderer.pm as lib/Mojolicious/Renderer.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes.pm as lib/Mojolicious/Routes.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes/Match.pm as lib/Mojolicious/Routes/Match.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Routes/Pattern.pm as lib/Mojolicious/Routes/Pattern.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Sessions.pm as lib/Mojolicious/Sessions.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Static.pm as lib/Mojolicious/Static.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/Types.pm as lib/Mojolicious/Types.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/amelia.png as lib/Mojolicious/public/amelia.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/css/prettify-mojo.css as lib/Mojolicious/public/css/prettify-mojo.css
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/css/prettify.css as lib/Mojolicious/public/css/prettify.css
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/failraptor.png as lib/Mojolicious/public/failraptor.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/favicon.ico as lib/Mojolicious/public/favicon.ico
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/jquery.js as lib/Mojolicious/public/js/jquery.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-apollo.js as lib/Mojolicious/public/js/lang-apollo.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-clj.js as lib/Mojolicious/public/js/lang-clj.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-css.js as lib/Mojolicious/public/js/lang-css.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-go.js as lib/Mojolicious/public/js/lang-go.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-hs.js as lib/Mojolicious/public/js/lang-hs.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-lisp.js as lib/Mojolicious/public/js/lang-lisp.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-lua.js as lib/Mojolicious/public/js/lang-lua.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-ml.js as lib/Mojolicious/public/js/lang-ml.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-n.js as lib/Mojolicious/public/js/lang-n.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-proto.js as lib/Mojolicious/public/js/lang-proto.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-scala.js as lib/Mojolicious/public/js/lang-scala.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-sql.js as lib/Mojolicious/public/js/lang-sql.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-tex.js as lib/Mojolicious/public/js/lang-tex.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-vb.js as lib/Mojolicious/public/js/lang-vb.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-vhdl.js as lib/Mojolicious/public/js/lang-vhdl.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-wiki.js as lib/Mojolicious/public/js/lang-wiki.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-xq.js as lib/Mojolicious/public/js/lang-xq.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/lang-yaml.js as lib/Mojolicious/public/js/lang-yaml.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/js/prettify.js as lib/Mojolicious/public/js/prettify.js
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-arrow.png as lib/Mojolicious/public/mojolicious-arrow.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-black.png as lib/Mojolicious/public/mojolicious-black.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-box.png as lib/Mojolicious/public/mojolicious-box.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-clouds.png as lib/Mojolicious/public/mojolicious-clouds.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-noraptor.png as lib/Mojolicious/public/mojolicious-noraptor.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-notfound.png as lib/Mojolicious/public/mojolicious-notfound.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-pinstripe.gif as lib/Mojolicious/public/mojolicious-pinstripe.gif
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/public/mojolicious-white.png as lib/Mojolicious/public/mojolicious-white.png
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/exception.development.html.ep as lib/Mojolicious/templates/exception.development.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/exception.html.ep as lib/Mojolicious/templates/exception.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/mojobar.html.ep as lib/Mojolicious/templates/mojobar.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/not_found.development.html.ep as lib/Mojolicious/templates/not_found.development.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/not_found.html.ep as lib/Mojolicious/templates/not_found.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Mojolicious/templates/perldoc.html.ep as lib/Mojolicious/templates/perldoc.html.ep
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/Test/Mojo.pm as lib/Test/Mojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding mojo/lib/ojo.pm as lib/ojo.pm
+C:\strawberry\perl\site\bin/pp: ... adding log/development.log as log/development.log
+C:\strawberry\perl\site\bin/pp: ... adding log/hi as log/hi
+C:\strawberry\perl\site\bin/pp: ... adding log/s.txt as log/s.txt
+C:\strawberry\perl\site\bin/pp: ... adding log/simp.txt as log/simp.txt
+C:\strawberry\perl\site\bin/pp: ... adding log/w.txt as log/w.txt
+C:\strawberry\perl\site\bin/pp: ... updating MANIFEST
+C:\strawberry\perl\site\bin/pp: ... updating META.yml
+C:\strawberry\perl\site\bin/pp: *** C:\Users\THEQUI~1\AppData\Local\Temp\ppJZs_N.par: 4287135 bytes read, 1217985 compressed, 71% saved.
+C:\strawberry\perl\site\bin/pp: Generating a fresh 'parl'.
+C:\strawberry\perl\site\bin/pp: Running C:\Users\THEQUI~1\AppData\Local\Temp\parlDGohLLK.exe -Llog/w.txt -B -Ow.exe C:\Users\THEQUI~1\AppData\Local\Temp\ppJZs_N.par
+Packing "PAR/Filter/PodStrip.pm"...
+Written as "PAR/Filter/PodStrip.pm"
+Packing "Archive/Zip.pm"...
+Written as "Archive/Zip.pm"
+Packing "Archive/Zip/Archive.pm"...
+Written as "Archive/Zip/Archive.pm"
+Packing "Archive/Zip/DirectoryMember.pm"...
+Written as "Archive/Zip/DirectoryMember.pm"
+Packing "Archive/Zip/FileMember.pm"...
+Written as "Archive/Zip/FileMember.pm"
+Packing "Archive/Zip/Member.pm"...
+Written as "Archive/Zip/Member.pm"
+Packing "Archive/Zip/NewFileMember.pm"...
+Written as "Archive/Zip/NewFileMember.pm"
+Packing "Archive/Zip/StringMember.pm"...
+Written as "Archive/Zip/StringMember.pm"
+Packing "Archive/Zip/ZipFileMember.pm"...
+Written as "Archive/Zip/ZipFileMember.pm"
+Packing "PAR.pm"...
+Written as "PAR.pm"
+Packing "PAR/Dist.pm"...
+Written as "PAR/Dist.pm"
+Packing "PAR/Heavy.pm"...
+Written as "PAR/Heavy.pm"
+Packing "PAR/SetupProgname.pm"...
+Written as "PAR/SetupProgname.pm"
+Packing "PAR/SetupTemp.pm"...
+Written as "PAR/SetupTemp.pm"
+Packing "Carp.pm"...
+Written as "Carp.pm"
+Packing "AutoLoader.pm"...
+Written as "AutoLoader.pm"
+Packing "Carp/Heavy.pm"...
+Written as "Carp/Heavy.pm"
+Packing "Compress/Raw/Zlib.pm"...
+Written as "Compress/Raw/Zlib.pm"
+Packing "Compress/Zlib.pm"...
+Written as "Compress/Zlib.pm"
+Packing "Config.pm"...
+Written as "Config.pm"
+Packing "Config_git.pl"...
+Written as "Config_git.pl"
+Packing "Config_heavy.pl"...
+Written as "Config_heavy.pl"
+Packing "Cwd.pm"...
+Written as "Cwd.pm"
+Packing "DynaLoader.pm"...
+Written as "DynaLoader.pm"
+Packing "Errno.pm"...
+Written as "Errno.pm"
+Packing "Exporter.pm"...
+Written as "Exporter.pm"
+Packing "Exporter/Heavy.pm"...
+Written as "Exporter/Heavy.pm"
+Packing "Fcntl.pm"...
+Written as "Fcntl.pm"
+Packing "File/Basename.pm"...
+Written as "File/Basename.pm"
+Packing "File/Copy.pm"...
+Written as "File/Copy.pm"
+Packing "File/Find.pm"...
+Written as "File/Find.pm"
+Packing "File/Glob.pm"...
+Written as "File/Glob.pm"
+Packing "File/GlobMapper.pm"...
+Written as "File/GlobMapper.pm"
+Packing "File/Path.pm"...
+Written as "File/Path.pm"
+Packing "File/Spec.pm"...
+Written as "File/Spec.pm"
+Packing "File/Spec/Unix.pm"...
+Written as "File/Spec/Unix.pm"
+Packing "File/Spec/Win32.pm"...
+Written as "File/Spec/Win32.pm"
+Packing "File/Temp.pm"...
+Written as "File/Temp.pm"
+Packing "FileHandle.pm"...
+Written as "FileHandle.pm"
+Packing "IO.pm"...
+Written as "IO.pm"
+Packing "IO/Compress/Adapter/Deflate.pm"...
+Written as "IO/Compress/Adapter/Deflate.pm"
+Packing "IO/Compress/Base.pm"...
+Written as "IO/Compress/Base.pm"
+Packing "IO/Compress/Base/Common.pm"...
+Written as "IO/Compress/Base/Common.pm"
+Packing "IO/Compress/Gzip.pm"...
+Written as "IO/Compress/Gzip.pm"
+Packing "IO/Compress/Gzip/Constants.pm"...
+Written as "IO/Compress/Gzip/Constants.pm"
+Packing "IO/Compress/RawDeflate.pm"...
+Written as "IO/Compress/RawDeflate.pm"
+Packing "IO/Compress/Zlib/Extra.pm"...
+Written as "IO/Compress/Zlib/Extra.pm"
+Packing "IO/File.pm"...
+Written as "IO/File.pm"
+Packing "IO/Handle.pm"...
+Written as "IO/Handle.pm"
+Packing "IO/Seekable.pm"...
+Written as "IO/Seekable.pm"
+Packing "IO/Uncompress/Adapter/Inflate.pm"...
+Written as "IO/Uncompress/Adapter/Inflate.pm"
+Packing "IO/Uncompress/Base.pm"...
+Written as "IO/Uncompress/Base.pm"
+Packing "IO/Uncompress/Gunzip.pm"...
+Written as "IO/Uncompress/Gunzip.pm"
+Packing "IO/Uncompress/RawInflate.pm"...
+Written as "IO/Uncompress/RawInflate.pm"
+Packing "List/Util.pm"...
+Written as "List/Util.pm"
+Packing "PerlIO.pm"...
+Written as "PerlIO.pm"
+Packing "PerlIO/scalar.pm"...
+Written as "PerlIO/scalar.pm"
+Packing "Scalar/Util.pm"...
+Written as "Scalar/Util.pm"
+Packing "SelectSaver.pm"...
+Written as "SelectSaver.pm"
+Packing "Symbol.pm"...
+Written as "Symbol.pm"
+Packing "Tie/Hash/NamedCapture.pm"...
+Written as "Tie/Hash/NamedCapture.pm"
+Packing "Time/Local.pm"...
+Written as "Time/Local.pm"
+Packing "UNIVERSAL.pm"...
+Written as "UNIVERSAL.pm"
+Packing "Win32.pm"...
+Written as "Win32.pm"
+Packing "XSLoader.pm"...
+Written as "XSLoader.pm"
+Packing "attributes.pm"...
+Written as "attributes.pm"
+Packing "auto/Compress/Raw/Zlib/autosplit.ix"...
+Written as "auto/Compress/Raw/Zlib/autosplit.ix"
+Packing "auto/DynaLoader/dl_findfile.al"...
+Written as "auto/DynaLoader/dl_findfile.al"
+Packing "base.pm"...
+Written as "base.pm"
+Packing "bytes.pm"...
+Written as "bytes.pm"
+Packing "constant.pm"...
+Written as "constant.pm"
+Packing "integer.pm"...
+Written as "integer.pm"
+Packing "lib.pm"...
+Written as "lib.pm"
+Packing "overload.pm"...
+Written as "overload.pm"
+Packing "re.pm"...
+Written as "re.pm"
+Packing "strict.pm"...
+Written as "strict.pm"
+Packing "utf8.pm"...
+Written as "utf8.pm"
+Packing "vars.pm"...
+Written as "vars.pm"
+Packing "warnings.pm"...
+Written as "warnings.pm"
+Packing "warnings/register.pm"...
+Written as "warnings/register.pm"
+Packing "PAR/Filter.pm"...
+Written as "PAR/Filter.pm"
+Packing "PAR/Filter/PatchContent.pm"...
+Written as "PAR/Filter/PatchContent.pm"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/09f36e3a.dll"...
+Written as "auto/IO/IO.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/140b4240.dll"...
+Written as "auto/Cwd/Cwd.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/1476eef8.dll"...
+Written as "auto/Win32/Win32.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/2e98a51c.dll"...
+Written as "auto/Fcntl/Fcntl.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/4102421d.dll"...
+Written as "auto/List/Util/Util.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/66f1702a.dll"...
+Written as "auto/PerlIO/scalar/scalar.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/c8b1dd32.dll"...
+Written as "auto/Compress/Raw/Zlib/Zlib.dll"
+Packing "C:\Users\THEQUI~1\AppData\Local\Temp\par-thequietcenter\cache-4c784b0fc7b95ed79c3e37fe4dc1a781098a423b/ce5e4940.dll"...
+Written as "auto/File/Glob/Glob.dll"
+C:\strawberry\perl\site\bin/pp: Running  w.exe 
