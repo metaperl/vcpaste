@@ -1,0 +1,12 @@
+[Fri Sep  9 13:59:45 2011] [debug] Your secret passphrase needs to be changed!!!
+[Fri Sep  9 13:59:45 2011] [debug] GET / (Anonymojo).
+[Fri Sep  9 13:59:45 2011] [debug] Dispatching callback.
+[Fri Sep  9 13:59:45 2011] [debug] 200 OK (0.001970s, 507.614/s).
+[Fri Sep  9 14:01:59 2011] [debug] Your secret passphrase needs to be changed!!!
+[Fri Sep  9 14:01:59 2011] [debug] GET / (Anonymojo).
+[Fri Sep  9 14:01:59 2011] [debug] Dispatching callback.
+[Fri Sep  9 14:01:59 2011] [debug] 200 OK (0.001828s, 547.046/s).
+[Fri Sep  9 15:37:33 2011] [debug] Your secret passphrase needs to be changed!!!
+[Fri Sep  9 15:37:33 2011] [debug] GET / (Anonymojo).
+[Fri Sep  9 15:37:33 2011] [debug] Dispatching callback.
+[Fri Sep  9 15:37:33 2011] [debug] 200 OK (0.001233s, 811.030/s).
