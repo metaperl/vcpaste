@@ -1,0 +1,3 @@
+* __FILE__ sometimes returns the key in %INC and other times the value
+** in trieshard.pl, it returns the value - an absolute path
+** 

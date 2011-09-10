@@ -1,0 +1,26 @@
+#!/usr/bin/env perl
+
+use autodie;
+use autodie::exception;
+
+use File::Spec;
+
+use Data::Dumper;
+
+BEGIN { require Mojolicious::Lite; Mojolicious::Lite->import; }
+use File::Spec;
+
+get '/' => sub {
+    my $self = shift;
+    $self->render( text => 'Hello World!' );
+};
+
+app->start('cgi');
+
+# Mojolicious/Controller line 21
+# https://github.com/kraih/mojo/blob/master/lib/Mojolicious/Controller.pm#L21
+# my $T = File::Spec->catdir(File::Basename::dirname(__FILE__), 'templates');
+
+# Mojo/Home line 28
+# https://github.com/kraih/mojo/blob/master/lib/Mojo/Home.pm#L28
+# my @parts = File::Spec->splitdir(abs_path $ENV{MOJO_HOME});
