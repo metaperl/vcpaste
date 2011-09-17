@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="http://www.appelsiini.net/download/jquery.chained.js">
+    </script>
+    <script src="/dump_src.js"></script>
+    <script
+	src="http://documentcloud.github.com/underscore/underscore.js">
+    </script>
+  </head>
+  <body>
+    <table border=1 width="100%">
+      <thead>
+	<tr>
+	  <th width="25%">Category</th>
+	  <th width="25%">Product</th>
+	  <th width="15%" class='price'>Price</th>
+	  <th width="10%" class='quantity'>Quantity</th>
+	  <th width="15%" class='price'>Subtotal</th>
+	  <th width="10%"> </th>
+	</tr>
+      </thead>
+      <tbody>
+
+	<tr>
+	  <TD>
+	    <select id="category">
+
+	    </select>
+	  </TD>
+	  <TD>
+	    <select id="product">
+
+	    </select>
+	  </TD>
+	  <td class='price'><span data-bind='text: product() ? formatCurrency(product().price) : ""'></span></td>
+	  <td class='quantity'><input data-bind='visible: product, value: quantity, valueUpdate: "afterkeydown"' /></td>
+	  <td class='price'><span data-bind='visible: product, text: formatCurrency(subtotal())'></span></td>
+	  <td><a href="#" data-bind='click: function() { cartViewModel.removeLine($data) }'>Remove</a></td>
+	  
+	</tr>
+      </tbody>
+    </table>
+
+    <div id="candy"></div>
+    <div id="debug"> </div>
+    
+    <script src="/pulldowns.js">
+    </script>
+  </body>
+</html>
