@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+  div { color:red; }
+  </style>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="https://raw.github.com/SamWM/jQuery-Plugins/master/selectboxes/jquery.selectboxes.js"></script>
+</head>
+<body>
+  <select id="category">
+
+  </select>
+  <div id="candy"></div>
+  <div id="debug"> </div>
+  
+<script>
+function dojson () {
+    var json = null;
+    my_url  = "/products.json";
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': my_url,
+        'dataType': "json",
+        'success': function (data) {
+            json = data;
+        }
+    });
+    return json;
+}
+
+function dictionary(list) {
+    var map = {};
+    for (var i = 0; i < list.length; ++i) {
+        var category = list[i].category;
+        if (!map[category]) 
+            map[category] = [];
+        map[category].push(list[i]);    // add complete products
+    }
+    return map;
+}
+
+</script> 
+
+<script>
+    $("select").change(function () {
+          var str = "";
+          $("select option:selected").each(function () {
+                str += $(this).text() + " ";
+              });
+          $("#candy").text(str);
+
+        })
+        .change();
+</script>
+<script>
+var productDict = dictionary(dojson());
+console.log('dictionary -- ' + productDict);
+var categories = Object.keys(productDict);
+console.log('categories -- ' + categories);
+for (var category in categories) {
+  var o = "<option>" + category + "</option>";
+  console.log(o);
+  $('#category').append($(o));
+}
+
+$(document).ready(function() {
+	  console.log(dictionary(dojson()));
+});
+</script>
+</body>
+</html>
