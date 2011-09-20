@@ -1,0 +1,29 @@
+% title => 'Login or Register';
+
+
+<form id="form" method="post" action="store">
+  <fieldset>
+    <legend>Please login or <a id="regorg" href="/register">register</a></legend>
+
+    <p>
+      <label for="email">Email Address</label>&nbsp;
+      <input id="email" name="email" size="75"  class="required email"
+	     minlength="2" placeholder="Please enter the email address on file with the dispensary" /> 
+    </p>
+<p>
+      <label for="password">Password</label>&nbsp;
+      <input id="password" name="password" size="75" type="password" class="required" minlength="4"
+	     placeholder="Please enter your chosen password"
+	     />
+    </p>
+
+    <p>
+      <label> </label>&nbsp;
+      <input id="continue" class="submit" type="submit" value="Continue"/>
+    </p>
+
+
+  </fieldset>
+</form>
+
+<%= include 'validation' %>

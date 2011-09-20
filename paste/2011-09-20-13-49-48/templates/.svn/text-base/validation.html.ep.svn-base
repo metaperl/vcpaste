@@ -1,0 +1,16 @@
+<script type="text/javascript">
+$(document).ready( function() {
+
+          $( "#form" )
+        . validate(
+          {
+              rules
+              : {
+                  password : "required",
+                  password_again : { equalTo : "#password" }
+              }
+          }
+        );
+  } );
+</script>
+

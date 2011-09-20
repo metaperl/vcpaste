@@ -1,0 +1,5 @@
+% title => 'Email not found';
+
+Email <%= $email %> does not exist in the system. Please 
+<a id="regorg" href="/">retry</a></legend>
+and enter a valid email.

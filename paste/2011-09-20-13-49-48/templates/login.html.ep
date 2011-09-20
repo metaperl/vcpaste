@@ -1,0 +1,31 @@
+% title => 'Login';
+
+<form id="myform" method="post" action="login">
+  <fieldset>
+    <legend>Thank you <%= $firstname %>, please login by entering a password </legend>
+
+    <p>
+      <label for="username">Email Address</label>&nbsp;
+      <input id="username" name="username" size="75" disabled="true" value="<%= $email %>"
+	     minlength="2"/>  
+
+    </p>
+
+</p>
+
+
+<p>
+  <label for="password">Password</label>&nbsp;
+  <input id="password" name="password" size="75" type="password" class="required" minlength="4"
+	 placeholder="Please enter a password"
+	 />
+</p>
+
+<p>
+  <label> </label>&nbsp;
+  <input id="register" class="submit" type="submit" value="Login"/>
+</p>
+
+
+</fieldset>
+</form>

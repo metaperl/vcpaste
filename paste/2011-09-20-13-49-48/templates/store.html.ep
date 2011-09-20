@@ -1,0 +1,41 @@
+% title => 'Web Store';
+
+<div id="SmartCart" class="scMain">
+
+  <% for my $product (@$products) { %>
+
+  <input type="hidden"  pprice="<%= $product->{pricepoint_string} %>"
+  pdesc="" pcategory="<%= $product->{category} %>"
+  pname="<%= $product->{name} %>" pid="<%= $product->{id} %>" />
+ 
+  <% } %>
+
+</div>
+
+<script type="text/javascript">
+function processCheckout () {
+var subtotal = $('.scLabelSubtotalValue').text();
+	 var url = '/totalfor/' + subtotal;
+			  $.ajax({
+			      url: url,
+			      dataType: 'json',
+			      data: '',
+			      async: false,
+			      success: function(data) { 
+var msg = 'Your total is: ' + data.total;
+alert(msg);
+}});
+
+}
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function(){ 
+      $('#SmartCart').smartCart({ onCheckout: processCheckout });
+    });
+</script>
+
+
+<P>
+  <a href="/logout">Logout</a>
+</P>

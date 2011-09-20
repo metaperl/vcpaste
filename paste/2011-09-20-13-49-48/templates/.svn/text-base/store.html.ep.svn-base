@@ -1,0 +1,28 @@
+% layout 'cam', title => 'Web Store';
+
+WELCOME TO THE STORE
+
+
+
+<div id="SmartCart" class="scMain">
+
+  <% for my $product (@$products) { %>
+
+  <input type="hidden"  pprice="<%= $product->{pricepoint_string} %>"
+  pdesc="" pcategory="<%= $product->{category} %>"
+  pname="<%= $product->{name} %>" pid="<%= $product->{id} %>" />
+ 
+  <% } %>
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){ 
+      $('#SmartCart').smartCart();
+    });
+</script>
+
+
+<P>
+  <a href="/logout">Logout</a>
+</P>

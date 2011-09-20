@@ -1,0 +1,36 @@
+% layout 'cam', title => 'Register';
+
+<form id="form" method="post" action="register_eval">
+  <fieldset>
+    <legend>Please register</legend>
+
+    <p>
+      <label for="email">Email Address</label>&nbsp;
+      <input id="email" name="email" size="75"  class="required email"
+	     minlength="2" placeholder="Please enter the email address on file with the dispensary" /> 
+    </p>
+
+    <p>
+      <label for="password">Password</label>&nbsp;
+      <input id="password" name="password" size="75" type="password" class="required" minlength="4"
+	     placeholder="Please enter a password"
+	     />
+    </p>
+
+    <p>
+      <label for="password_again">Password (again)</label>&nbsp;
+      <input id="password_again" name="password_again" size="75"  type="password" class="required" minlength="4"
+	     placeholder="Please enter password again for verification"
+	     />
+    </p>
+
+    <p>
+      <label> </label>&nbsp;
+      <input id="register" class="submit" type="submit" value="Register"/>
+    </p>
+
+
+  </fieldset>
+</form>
+
+<%= include 'validation' %>
