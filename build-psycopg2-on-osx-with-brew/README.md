@@ -4,7 +4,7 @@ I installed the Homebrew version of Postgres via
 
 And then did a `cp /usr/local/Cellar/postgresql/9.2.3/homebrew.mxcl.postgresql.plist ~/Library/LaunchAgents/` to add a lunchy launcher for it.
 
-Then I poidnted the setup.cfg to it  and typed `python setup.py build`
+Then I pointed the [https://github.com/metaperl/vcpaste/blob/master/build-psycopg2-on-osx-with-brew/setup.cfg](setup.cfg) to it and typed `python setup.py build`
 but then I got this error:
 
 ```
@@ -17,4 +17,4 @@ being linked (i386):
 ```
 
 so it seems there is something odd about the build of libpq by brew
-(from the standpoint of [psycopg2](http://initd.org/psycopg/)
+(from the standpoint of [psycopg2](http://initd.org/psycopg/) )
